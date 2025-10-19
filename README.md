@@ -1,2 +1,2 @@
-# RunawayAsWind.github.io
-We find it!
+# RunawayAsWind Blog
+Hey， You found it!
