@@ -15,10 +15,12 @@
           <ul>
             <li><a href="What's Shader Permutation">What's Shader Permutation?</a></li>
             <li><a href="Get Shader Permutations in your Project">Get Shader Permutations in your Project</a></li>
+            <li><a href="Use Mali Offline Compiler to Test Shader Performance">Use Mali Offline Compiler to test shader performance</a></li>
           </ul>
           <summary>Material</summary>
           <ul>
             <li><a href="Custom Material Expressions">Custom Material Expressions</a></li>
+            <li><a href="Shader Compilation Pipeline in UE">Shader Compilation Pipeline in UE</a></li>
           </ul>
         </details>
       </div>
